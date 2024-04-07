@@ -53,7 +53,16 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 
 > SuperLifeStyle - Where Health, Insurance, and Ethical Excellence Converge for Your Brighter Tomorrow!
 
-## File Tree:
+## Table of Contents:
+
+1. [File Tree](#file-tree)
+2. [Target Objectives for Superlife](#target)
+3. [Project Development Pipeline](#pdp)
+4. [Program Design](#design)
+5. [Risk and Risk Mitigation Considerations](#risk)
+6. [Sensitivity Analysis](#sens)
+
+## File Tree: <a name="file-tree"></a>
 
 ```
 .
@@ -108,7 +117,7 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 └── README.md
 ```
 
-### Target Objectives for SuperLife:
+### Target Objectives for SuperLife: <a name="target"></a>
 
 <img title="" src="./Logos and Figures/Objectives.png" alt="" width="640">
 
@@ -132,7 +141,7 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
   
     The reduction in mortality for participating policyholders will reduce their expected mortality and thus reduce the expected claims costs of these insurance products. The discounts offered by the scheme can be in the form of reduced premiums properly repriced in the hopes of increasing sales volume, or Superlife can choose not to reprice premiums and hold on to additional cost savings themselves. SuperLifeStyle will provide economic value through the increase in insurance sales and competitiveness of SuperLife’s products, as well as providing unique value in the form of health interventions that will separate Superlife from its competitors.
 
-### Project Development Pipeline:
+### Project Development Pipeline: <a name="pdp"></a>
 
 <img src="./Logos and Figures/Pipeline.png" width="20em">
 
@@ -148,7 +157,7 @@ Our analysis was limited by the data and assumptions we used as inputs. We prima
 
 Alongside the sensitivity analysis, we have also considered several qualitative risks such as policyholders attempting to exploit the program without properly engaging. Mitigation strategies were listed in order to ensure the implementation of SuperLifeStyle comes with minimal risk.  
 
-### Program Design
+### Program Design <a name="design"></a>
 
 <img src="./Logos%20and%20Figures/SuperLifeStyle%20Wellness%20Incentives.png" title="" alt="" width="637">
 
@@ -174,7 +183,7 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
   
   These incentives were selected through external research, we were able to find details on how these health initiatives worked which aided in the construction of SuperLifeStyle’s logistics. We were also able to broadly validate the mortality impact and cost figures provided by SuperLife; this will be discussed further in the Data and Data Limitations section of the report. All sources are listed in the bibliography.
 
-### Risk and Risk Mitigation Considerations
+### Risk and Risk Mitigation Considerations <a name="risk"></a>
 
 <img title="" src="./Logos and Figures/Risk Rate.jpeg" alt="" width="652">
 
@@ -192,7 +201,7 @@ The implementation of SuperLifeStyle is accompanied by several key risks which t
 
 * <u>*War*</u> – High Severity, low Likelihood – Creates market volatility and potential increase in mortality rate amongst annuitants. Impacts economy adversely and leads to poor investment returns and profits 
 
-#### Sensitivity Analysis
+#### Sensitivity Analysis <a name="sens"></a>
 
 <p float="left">
   <img src="./Logos and Figures/T20 Sens Analysis.png" width="300" />
