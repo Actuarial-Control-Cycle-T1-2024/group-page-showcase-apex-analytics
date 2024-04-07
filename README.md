@@ -124,7 +124,7 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 
 ### Target Objectives for SuperLife: <a name="target"></a>
 
-<img title="" src="./Logos and Figures/Objectives.png" alt="" width="640">
+<img title="" src="./Logos and Figures/Objectives.png" alt="" width="450">
 
 * <u>Incentivize Healthy Behaviors Through Participation in the Program  </u>
   
@@ -148,13 +148,13 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 
 ### Project Development Pipeline: <a name="pdp"></a>
 
-<img src="./Logos and Figures/Pipeline.png" width="20em">
+<img title="" src="./Logos and Figures/Pipeline.png" alt="" width="450" data-align="inline">
 
 We have determined that the reduction in claims costs from SuperLifeStyle’s mortality benefits will offset the implementation costs for term insurance between the ages of 23 and 84, and whole-life insurance for all ages above 23. This reduction in expenses will fund the premium discounts. The reduced costs and higher expected insurance sales from the discounts will create larger profits for SuperLife. 
 
 ### Pricing and Costs:
 
-![](/Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-13-27-image.png)
+<img src="file:///Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-13-27-image.png" title="" alt="" width="450">
 
 The graph below indicates the lives that would have been saved if the program was implemented 20 years ago; the claims cost savings would have been Č11,491,341,272.57 for term insurance policies and Č58,051,148,810.82 for whole-life policies. The savings would increase to Č14,409,136,415.29 and Č131,818,490,081.97 after another 20 years. 
 
@@ -188,6 +188,8 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
   
   While short-term participation in these initiatives is enough to begin accessing the discounts, the impact to mortality from engagement will only become apparent over a much longer period, thus consistent long-term participation is a key requirement of the program. Participants who cease to engage will no longer receive discounts and may be required to pay back a portion of the premiums previously discounted.
   
+  ### Incentive Finalization
+  
   The selection process of these four incentives was as follows: we set up a model to rank the extensive list of incentives provided to us by SuperLife’s product development team based off the impact to mortality balanced by the cost of implementation and identified Safety Campaigns and Community Fitness Challenges as the two most effective. We then selected two more incentives that also ranked highly that addressed specific health concerns that we noticed had a large impact on SuperLife’s policyholder demographic; cancer is a leading cause of death for policyholders and thus Preventative Screening was selected, and a large portion of policyholders are smokers, so Smoking Cessation Programs was selected.
   
   These incentives were selected through external research, we were able to find details on how these health initiatives worked which aided in the construction of SuperLifeStyle’s logistics. We were also able to broadly validate the mortality impact and cost figures provided by SuperLife; this will be discussed further in the Data and Data Limitations section of the report. All sources are listed in the bibliography.
@@ -206,7 +208,7 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 | Pandemic<br> (PAND)      | 2          | 4        |
 | War                      | 1          | 5        |
 
-![](/Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-05-25-image.png)
+<img src="file:///Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-05-25-image.png" title="" alt="" width="450">
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
 
@@ -228,8 +230,6 @@ In order to check the reasonability of Superlife's in-house data, we have cross-
 
 2. Australian Life Table
 
-
-
 <style>
 </style>
 
@@ -248,8 +248,6 @@ In order to check the reasonability of Superlife's in-house data, we have cross-
 </p>
 
 A key quantitative risk is the incorrectness of assumptions used. To address this risk, sensitivity testing reveals reasonable results for moderate changes to the economic landscape in the form of interest rate and inflationr ate fluctuations.
-
-
 
 ### Final Recommendations
 
@@ -273,7 +271,7 @@ Ethical Considerations and Framework: 
 1. Page K. The four principles: can they be measured and do they predict ethical decision making? BMC Med Ethics. 2012 May 20;13:10. doi: 10.1186/1472-6939-13-10. PMID: 22606995; PMCID: PMC3528420. Available from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3528420/ 
 2. Van Wolfren. J., Inbar K., Zeelenberg M. (2013). Moral hazard in the insurance industry. *Vetspar.* Available from researchgate.net/publication/235988864_Moral_hazard_in_the_insurance_industry 
 
-SuperLifeStyle Apex Analytics 
+
 
 Safety Campaigns: 
 
