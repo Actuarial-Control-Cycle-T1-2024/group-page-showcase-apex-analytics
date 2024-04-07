@@ -1,5 +1,12 @@
-# ACTL5100
+# SuperlifeStyle
+## A Health Incentive Program for Superlife Life Insurance 
+Authors: H. Dharmadasa, E. Gao, K. Kirubakaran, V. Narayan & N. Verghese
 
+
+![SOA Logo](Logos and Figures/soa.png)
+![UNSW Logo](Logos and Figures/unsw_horizontal.png)
+
+SuperLifeStyle is a health incentives program that we at Apex Analytics have designed for SuperLife to implement alongside their long-term life insurance products. The program allows policyholders of these products to earn premiums by engaging with four health initiatives, which we have selected by analyzing and validating SuperLife’s internal research.
 
 ## File Tree:
 
@@ -27,6 +34,23 @@
 │       ├── Sensitivity_Analysis.csv
 │       ├── Superlife-inforce-mortality-table.csv
 │       └── average_mortality_table.xlsx
+├── Logos and Figures
+│   ├── Benefit_Modelling_page-0001.jpg
+│   ├── Benefit_Modelling_page-0002.jpg
+│   ├── Benefit_Modelling_page-0003.jpg
+│   ├── Benefits by Age Group_page-0001.jpg
+│   ├── Cost reduction.png
+│   ├── Lives saved.png
+│   ├── Objectives.png
+│   ├── Pipeline.png
+│   ├── Post Interventions Life Table_page-0001.jpg
+│   ├── Risk Map.jpeg
+│   ├── Risk Rate.jpeg
+│   ├── soa.png
+│   ├── SPWL Sens Analysis.png
+│   ├── T20 Sens Analysis.png
+│   ├── unsw_horizontal.png
+│   └── unsw_vertical.png
 ├── R Code
 │   ├── ACTL5100 Lumaria Mortality Modelling.R
 │   ├── Inforce Benefit Modelling.Rmd
@@ -35,29 +59,68 @@
 │   ├── Inforce Mortality Modelling.Rmd
 │   └── Sensitivity Analysis.Rmd
 ├── .gitignore
+├── Apex Analytics Report.pdf
 └── README.md
 ```
+##### Target Objectives for SuperLife: 
 
-# Actuarial Theory and Practice A @ UNSW
+![Project Objectives](Logos and Figures/Objectives.png)
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+* Incentivize Healthy Behaviors Through Participation in the Program  
 
----
+ Participation in SuperLifeStyle involves engaging in healthy behaviors, and policyholders will be encouraged to participate through discounts to their premiums. Advertising the health benefits of participation will also encourage participation.  
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+* Decrease Expected Mortality 
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+ SuperLife has provided us with data indicating the health incentives which we have incorporated into SuperLifeStyle will decrease expected mortality for those who engage with them, and we have done our own external research to validate these numbers. Thus, the implementation of this program will lead to the decrease in expected mortality for participating policyholders.  
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+* Increase Life Insurance Sales 
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
+ The discounts offered by SuperLifeStyle will aim to increase sales by attracting customers to SuperLife’s long-term insurance products; Lumarians who may not have considered purchasing these products before due to the price will now be able to access them at a price they would accept in exchange for participation.  
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
+* Improve Product Marketability and Competitiveness  
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+ Similarly to the previous objective, the discounts offered by SuperLifeStyle will lower the effective price of long-term insurance for those willing to participate in the program, which will improve the marketability and competitiveness. 
+
+* Add Economic Value to Superlife  
+
+The reduction in mortality for participating policyholders will reduce their expected mortality and thus reduce the expected claims costs of these insurance products. The discounts offered by the scheme can be in the form of reduced premiums properly repriced in the hopes of increasing sales volume, or Superlife can choose not to reprice premiums and hold on to additional cost savings themselves. SuperLifeStyle will provide economic value through the increase in insurance sales and competitiveness of SuperLife’s products, as well as providing unique value in the form of health interventions that will separate Superlife from its competitors.
+
+##### Project Development Pipeline:
+
+![Project Development Pipeline](Logos and Figures/Pipeline.png)
+
+We have determined that the reduction in claims costs from SuperLifeStyle’s mortality benefits will offset the implementation costs for term insurance between the ages of 23 and 84, and whole-life insurance for all ages above 23. This reduction in expenses will fund the premium discounts. The reduced costs and higher expected insurance sales from the discounts will create larger profits for SuperLife. 
+
+The graph below indicates the lives that would have been saved if the program was implemented 20 years ago; the claims cost savings would have been Č11,491,341,272.57 for term insurance policies and Č58,051,148,810.82 for whole-life policies. The savings would increase to Č14,409,136,415.29 and Č131,818,490,081.97 after another 20 years. 
+
+![Claims Cost Reduction](Logos and Figures/Cost reduction.jpg)
+
+![Comparison of Lives Saved Now versus 20 Years prior](Logos and Figures/Lives saved.png)
+
+Our analysis was limited by the data and assumptions we used as inputs. We primarily relied on data provided by SuperLife, such as the life table and mortality reduction figures; we have validated this data through reasonability checks and external research. To address the risk of inappropriately selected assumptions, we performed sensitivity testing which provided confidence that reasonable deviations in our assumptions would not significantly impact our findings. 
+
+Alongside the sensitivity analysis, we have also considered several qualitative risks such as policyholders attempting to exploit the program without properly engaging. Mitigation strategies were listed in order to ensure the implementation of SuperLifeStyle comes with minimal risk.  
+
+#### Risk and Risk Mitigation Considerations  
+
+The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
+
+* Climate – High Severity, Moderate Likelihood – Can lead to higher mortality rate due to heat related illnesses. 
+
+* Inflation – Moderate Severity, High Likelihood – Persistently high inflation can curb spending as cost-of-living pressures will force potential customers to spend elsewhere which will affect SuperLifeStyle program performance and profits. 
+
+* Pandemic – High Severity, Low Likelihood – Can exponentially increase mortality rate and cause a downturn in the economy leading to an adverse impact on the program and profits 
+
+* Engagement Rate – Low Severity, High Likelihood – Low impact on results when inflation rates are fixed 
+
+* War – High Severity, low Likelihood – Creates market volatility and potential increase in mortality rate amongst annuitants. Impacts economy adversely and leads to poor investment returns and profits 
+
+![Risk Map](Logos and Figures/Risk Map.jpeg)
+
+![Risk Rate](Logos and Figures/Risk Rate.jpeg)
+
+#### Sensitivity Analysis
+
+![T20 Sensitivity Analysis to Interest and Inflation Rate](Logos and Figures/T20 Sens Analysis.png)
+![SPWL Sensitivity Analysis to Interest and Inflation Rate](Logos and Figures/SPWL Sens Analysis.png)
