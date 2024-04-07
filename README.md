@@ -168,7 +168,7 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 
 ### Program Design <a name="design"></a>
 
-<img src="./Logos%20and%20Figures/SuperLifeStyle%20Wellness%20Incentives.png" title="" alt="" width="637">
+<img src="./Logos%20and%20Figures/SuperLifeStyle%20Wellness%20Incentives.png" title="" alt="" width="450">
 
 * **<u>Safety Campaigns</u>**<a name="safety"></a>
   
@@ -209,6 +209,8 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 | War                      | 1          | 5        |
 
 <img src="file:///Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-05-25-image.png" title="" alt="" width="450">
+
+<img src="file:///Users/visweshnarayan/Downloads/Picture%201.png" title="" alt="" width="454">
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
 
@@ -270,8 +272,6 @@ Ethical Considerations and Framework: 
 
 1. Page K. The four principles: can they be measured and do they predict ethical decision making? BMC Med Ethics. 2012 May 20;13:10. doi: 10.1186/1472-6939-13-10. PMID: 22606995; PMCID: PMC3528420. Available from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3528420/ 
 2. Van Wolfren. J., Inbar K., Zeelenberg M. (2013). Moral hazard in the insurance industry. *Vetspar.* Available from researchgate.net/publication/235988864_Moral_hazard_in_the_insurance_industry 
-
-
 
 Safety Campaigns: 
 
