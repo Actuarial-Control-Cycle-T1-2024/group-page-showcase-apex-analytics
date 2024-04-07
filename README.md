@@ -152,11 +152,15 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 
 We have determined that the reduction in claims costs from SuperLifeStyle’s mortality benefits will offset the implementation costs for term insurance between the ages of 23 and 84, and whole-life insurance for all ages above 23. This reduction in expenses will fund the premium discounts. The reduced costs and higher expected insurance sales from the discounts will create larger profits for SuperLife. 
 
+### Pricing and Costs:
+
+![](/Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-13-27-image.png)
+
 The graph below indicates the lives that would have been saved if the program was implemented 20 years ago; the claims cost savings would have been Č11,491,341,272.57 for term insurance policies and Č58,051,148,810.82 for whole-life policies. The savings would increase to Č14,409,136,415.29 and Č131,818,490,081.97 after another 20 years. 
 
-![Claims Cost Reduction](Logos%20and%20Figures/Cost%20reduction.png)
+<img src="Logos%20and%20Figures/Cost%20reduction.png" title="" alt="Claims Cost Reduction" width="452">
 
-<img src="Logos and Figures/Lives saved.png" title="" alt="Comparison of Lives Saved Now versus 20 Years prior" width="552">
+<img title="" src="Logos and Figures/Lives saved.png" alt="Comparison of Lives Saved Now versus 20 Years prior" width="452">
 
 Our analysis was limited by the data and assumptions we used as inputs. We primarily relied on data provided by SuperLife, such as the life table and mortality reduction figures; we have validated this data through reasonability checks and external research. To address the risk of inappropriately selected assumptions, we performed sensitivity testing which provided confidence that reasonable deviations in our assumptions would not significantly impact our findings. 
 
@@ -190,9 +194,19 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 
 ### Risk and Risk Mitigation Considerations <a name="risk"></a>
 
-<img title="" src="./Logos and Figures/Risk Rate.jpeg" alt="" width="652">
+<style>
+</style>
 
-![Risk Map](Logos and Figures/Risk Map.jpeg)
+|                          |            |          |
+| ------------------------ | ---------- | -------- |
+| Risk                     | Likelihood | Severity |
+| Inflation<br> (INF)      | 5          | 3        |
+| Climate Change<br> (CC)  | 3          | 2        |
+| Engagement<br> Rate (ER) | 5          | 1        |
+| Pandemic<br> (PAND)      | 2          | 4        |
+| War                      | 1          | 5        |
+
+![](/Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-05-25-image.png)
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
 
@@ -212,7 +226,19 @@ In order to check the reasonability of Superlife's in-house data, we have cross-
 
 1. SuperLife In-Force Data
 
-2.  Australian Life Table
+2. Australian Life Table
+
+
+
+<style>
+</style>
+
+| Data Requirement     | Data Sources                                                     | Data Limitations                                                                                                                           |
+| -------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mortality rate       | Lumaria life table (Lumaria govt)                                | Life table provides mortality by age only<br> and does not provide mortality rates by sex or smoking status.                               |
+| Mortality rate       | Policyholder mortality rates (in-force<br> policyholder dataset) | Mortality rates implied at the ends of the<br> age spectrum are weak estimates due to low sample size or low occurrences of<br> mortality. |
+| Mortality Rate       | Australian Life Table                                            | Chosen due to similar characteristics to<br> Lumaria but may not be exact                                                                  |
+| Economic Assumptions | Central Bank of Lumaria                                          | Not verified if inflation targeting practices were implemented                                                                             |
 
 #### Sensitivity Analysis <a name="sens"></a>
 
@@ -222,3 +248,39 @@ In order to check the reasonability of Superlife's in-house data, we have cross-
 </p>
 
 A key quantitative risk is the incorrectness of assumptions used. To address this risk, sensitivity testing reveals reasonable results for moderate changes to the economic landscape in the form of interest rate and inflationr ate fluctuations.
+
+
+
+### Final Recommendations
+
+The proposed program adopts a holistic approach to health and wellbeing and offers SuperLife’s policyholders health-promoting activities to engage with. In addition to being informed by medical research, the quantitative modelling also reaffirms the projected success of the program from a mortality reduction and savings perspective. SuperLifeStyle will bring value to SuperLife in terms of competitiveness, marketability, and economic value and should gradually be scaled by SuperLife depending on the initial performance.
+
+### Bibliography
+
+Greenhalgh, EM, Scollo, MM and Winstanley, MH [editors]. *Tobacco in Australia: Facts and issues*. Melbourne: Cancer Council Victoria. Available from: tobaccoinaustralia.org.au/chapter-7-cessation/7-17-financial-incentives 
+
+Engagement Rate: 
+
+1. Swirr Re. (2022). “Health and Wellness Engagement Impact”. Retrieved from 2022-10-sr-swissre-health-engagement-impact-paper.pdf 
+
+Preventative Screening: 
+
+1. H.-O. Adami a, N.E. Day b, D. Trichopoulos c d, W.C. Willett e. (2001). Primary and secondary prevention in the reduction of cancer morbidity and mortality. *European Journal of Cancer.* Available from: Primary and secondary prevention in the reduction of cancer morbidity and mortality - ScienceDirect 
+2. James A. Hanley, Measuring Mortality Reductions in Cancer Screening Trials, Epidemiologic Reviews, Volume 33, Issue 1, July 2011, Pages 36–45. Available from https://doi.org/10.1093/epirev/mxq021 
+
+Ethical Considerations and Framework: 
+
+1. Page K. The four principles: can they be measured and do they predict ethical decision making? BMC Med Ethics. 2012 May 20;13:10. doi: 10.1186/1472-6939-13-10. PMID: 22606995; PMCID: PMC3528420. Available from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3528420/ 
+2. Van Wolfren. J., Inbar K., Zeelenberg M. (2013). Moral hazard in the insurance industry. *Vetspar.* Available from researchgate.net/publication/235988864_Moral_hazard_in_the_insurance_industry 
+
+SuperLifeStyle Apex Analytics 
+
+Safety Campaigns: 
+
+1. Aburumman, Mohammed & Newnam, Sharon & Fildes, Brian. (2019). Evaluating the effectiveness of workplace interventions in improving safety culture: A systematic review. Safety Science. 115. 376-392. 10.1016/j.ssci.2019.02.027. 
+2. Newnam, Sharon & Muir, Carlyn. (2015). Effectiveness of Prevention-Focused, Workplace Health and Safety Campaigns. Institute for Safety, Compensation and Recovery Research 
+3. Choi, Sung & Choi, Seo & Kwon, Soon & Pok, Jin. (2023). A Study on the Impact of Unsafe Behavior on Safety and Health Culture According to Workplace Safety and Health Education Experience. Forum of Public Safety and Culture. 25. 235-247. 10.52902/kjsc.2023.25.235. 
+
+Australian Life Table: 
+
+1. The Australian Government Actuary. (2019). Australian Life Tables 2015‑17. Available from https://aga.gov.au/publications/life-tables/australian-life-tables-2015-17
