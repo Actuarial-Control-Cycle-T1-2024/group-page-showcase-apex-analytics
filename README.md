@@ -2,9 +2,10 @@
 ## A Health Incentive Program for Superlife Life Insurance 
 Authors: H. Dharmadasa, E. Gao, K. Kirubakaran, V. Narayan & N. Verghese
 
-
-![SOA Logo](Logos and Figures/soa.png)
-![UNSW Logo](Logos and Figures/unsw_horizontal.png)
+<p float="left">
+  <img src="/(Logos and Figures/soa.png" width="100" />
+  <img src="/Logos and Figures/unsw_horizontal.png" width="100" />
+</p>
 
 SuperLifeStyle is a health incentives program that we at Apex Analytics have designed for SuperLife to implement alongside their long-term life insurance products. The program allows policyholders of these products to earn premiums by engaging with four health initiatives, which we have selected by analyzing and validating SuperLife’s internal research.
 
@@ -62,9 +63,8 @@ SuperLifeStyle is a health incentives program that we at Apex Analytics have des
 ├── Apex Analytics Report.pdf
 └── README.md
 ```
-##### Target Objectives for SuperLife: 
-
-![Project Objectives](Logos and Figures/Objectives.png)
+### Target Objectives for SuperLife: 
+<img src="./Logos and Figures/Objectives.png" width="20em">
 
 * Incentivize Healthy Behaviors Through Participation in the Program  
 
@@ -86,9 +86,8 @@ SuperLifeStyle is a health incentives program that we at Apex Analytics have des
 
 The reduction in mortality for participating policyholders will reduce their expected mortality and thus reduce the expected claims costs of these insurance products. The discounts offered by the scheme can be in the form of reduced premiums properly repriced in the hopes of increasing sales volume, or Superlife can choose not to reprice premiums and hold on to additional cost savings themselves. SuperLifeStyle will provide economic value through the increase in insurance sales and competitiveness of SuperLife’s products, as well as providing unique value in the form of health interventions that will separate Superlife from its competitors.
 
-##### Project Development Pipeline:
-
-![Project Development Pipeline](Logos and Figures/Pipeline.png)
+### Project Development Pipeline:
+<img src="./Logos and Figures/Pipeline.png" width="20em">
 
 We have determined that the reduction in claims costs from SuperLifeStyle’s mortality benefits will offset the implementation costs for term insurance between the ages of 23 and 84, and whole-life insurance for all ages above 23. This reduction in expenses will fund the premium discounts. The reduced costs and higher expected insurance sales from the discounts will create larger profits for SuperLife. 
 
