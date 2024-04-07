@@ -59,8 +59,13 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 2. [Target Objectives for Superlife](#target)
 3. [Project Development Pipeline](#pdp)
 4. [Program Design](#design)
+   1. [Safety Campaigns](#safety)
+   2. [Community Fitness Challenges](#fitness)
+   3. [Preventative Screening](#screen)
+   4. [Smoking Cessation](#cess)
 5. [Risk and Risk Mitigation Considerations](#risk)
-6. [Sensitivity Analysis](#sens)
+6. [Data and Limitations](#data)
+7. [Sensitivity Analysis](#sens)
 
 ## File Tree: <a name="file-tree"></a>
 
@@ -161,19 +166,19 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 
 <img src="./Logos%20and%20Figures/SuperLifeStyle%20Wellness%20Incentives.png" title="" alt="" width="637">
 
-* **<u>Safety Campaigns</u>**
+* **<u>Safety Campaigns</u>**<a name="safety"></a>
   
   Safety campaigns play a pivotal role in SuperLifeStyle, offering educational opportunities to policyholders on a variety of safety topics. These campaigns are designed to empower individuals with awareness, encouraging them to make more informed decisions. From fire safety and home security to road safety and health awareness, safety campaigns cover a broad spectrum of topics aimed at minimizing risks and protecting lives. SuperLife allocates approximately ˇC10 - ˇC35 per participant towards content development, including educational materials, infographics, videos, online modules, and in-person demonstrations. These resources are disseminated through various channels such as emails, social media, and websites, incentivizing participation with discounts to premiums.
 
-* **<u>Community Fitness Challenges</u>**
+* **<u>Community Fitness Challenges</u>**<a name="fitness"></a>
   
   SuperLife’s SuperLifeStyle scheme can provide incentives such as premium discounts, gift cards, or other rewards to stimulate engagement in fitness challenges. Beyond mere motivation for individual health priorities, SuperLife can integrate community fitness challenges with its term and life assurance offerings. This strategic bundling not only aims to reduce mortality rates but also to enhance sales, revenue, foster brand loyalty and engagement, and help SuperLife balance expenses and mortality reduction.
 
-* **<u>Preventive Screening</u>**
+* **<u>Preventive Screening</u>**<a name="screen"></a>
   
   SuperLife can offer rewards to policyholders that undergo preventive screening programs, specifically those focused on cancers. Rewards include covering an annual screening session (ˇC32.5), and a reduction in yearly premiums for those that engage with the intervention (ˇC32.5). As most cancer related deaths occur beyond the age of 50, SuperLife can offer this intervention to policyholders above this age. Research supported mortality reduction figures roughly in-line with SuperLife’s own findings.
 
-* **<u>Smoking Cessations</u>**
+* **<u>Smoking Cessations</u>**<a name="cess"></a>
   
   This incentive encourages the quitting of smoking. Participants will be directed to facilities and services known to help with the cessation of smoking, such as individual and group counselling sessions, and nicotine replacement therapy. Successfully abstaining from smoking is required for the policyholder to be considered as engaging with this incentive.
   
@@ -191,15 +196,23 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
 
-* <u>*Climate*</u> – High Severity, Moderate Likelihood – Can lead to higher mortality rate due to heat related illnesses. 
+* *<u>Climate</u>* – High Severity, Moderate Likelihood – Can lead to higher mortality rate due to heat related illnesses. 
 
-* <u>*Inflation*</u> – Moderate Severity, High Likelihood – Persistently high inflation can curb spending as cost-of-living pressures will force potential customers to spend elsewhere which will affect SuperLifeStyle program performance and profits. 
+* *<u>Inflation</u>* – Moderate Severity, High Likelihood – Persistently high inflation can curb spending as cost-of-living pressures will force potential customers to spend elsewhere which will affect SuperLifeStyle program performance and profits. 
 
 * *<u>Pandemic</u>* – High Severity, Low Likelihood – Can exponentially increase mortality rate and cause a downturn in the economy leading to an adverse impact on the program and profits 
 
 * *<u>Engagement Rate</u>* – Low Severity, High Likelihood – Low impact on results when inflation rates are fixed 
 
-* <u>*War*</u> – High Severity, low Likelihood – Creates market volatility and potential increase in mortality rate amongst annuitants. Impacts economy adversely and leads to poor investment returns and profits 
+* *<u>War</u>* – High Severity, low Likelihood – Creates market volatility and potential increase in mortality rate amongst annuitants. Impacts economy adversely and leads to poor investment returns and profits 
+
+#### Data and Limitations <a name="data"></a>
+
+In order to check the reasonability of Superlife's in-house data, we have cross-validated it against two other data sources:
+
+1. SuperLife In-Force Data
+
+2.  Australian Life Table
 
 #### Sensitivity Analysis <a name="sens"></a>
 
@@ -208,4 +221,4 @@ The implementation of SuperLifeStyle is accompanied by several key risks which t
   <img src="./Logos and Figures/SPWL Sens Analysis.png" width="300" />
 </p>
 
-A key quantitative risk is the incorrectness of assumptions used. To address this risk, we have conducted sensitivity testing to identify the severity of the consequences should this occur.
+A key quantitative risk is the incorrectness of assumptions used. To address this risk, sensitivity testing reveals reasonable results for moderate changes to the economic landscape in the form of interest rate and inflationr ate fluctuations.
