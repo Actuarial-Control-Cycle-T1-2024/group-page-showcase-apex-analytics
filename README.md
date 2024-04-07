@@ -9,7 +9,19 @@ Authors: H. Dharmadasa, E. Gao, K. Kirubakaran, V. Narayan & N. Verghese
   <img src="./Logos and Figures/unsw_horizontal.png" width="300" />
 </p>
 
-SuperLifeStyle is a health incentives program that we at Apex Analytics have designed for SuperLife to implement alongside their long-term life insurance products. The program allows policyholders of these products to earn premiums by engaging with four health initiatives, which we have selected by analyzing and validating SuperLife’s internal research.
+Welcome to SuperLifeStyle - Your Path to a Healthier Future!
+
+SuperLifeStyle is a cutting-edge Health Incentive Program designed to  revolutionize the way you approach life insurance. We at Apex Analytics designed this program, tailored to not only protect your future but also enhance your present well-being.
+
+Our primary objective with SuperLifeStyle is to incentivize healthy behaviors through engaging health incentives. By participating in the program, you not only secure your financial future with long-term insurance products but also embark on a journey towards a healthier lifestyle.
+
+What sets SuperLifeStyle apart is our unique approach to promoting health and well-being. The implementation of our key 4 incentives offer a diverse range of incentives to encourage and support you in making positive lifestyle changes. By engaging with these initiatives, you not only decrease expected mortality but also unlock exclusive discounts on your insurance premiums.
+
+We understand the importance of ethical considerations in promoting health and well-being. That's why we have integrated ethical frameworks such as utilitarianism, deontology, and virtue ethics into our program design. Your well-being and autonomy are at the core of everything we do, ensuring that your journey with us is not only rewarding but also ethically sound.
+
+Join us on this transformative journey towards a healthier and more secure future. Experience the benefits of SuperLifeStyle and take the first step towards a life filled with vitality, security, and peace of mind.
+
+SuperLifeStyle - Where Health Meets Insurance, and Your Future Shines Brighter!
 
 ## File Tree:
 
@@ -68,7 +80,7 @@ SuperLifeStyle is a health incentives program that we at Apex Analytics have des
 
 ### Target Objectives for SuperLife:
 
-<img src="./Logos and Figures/Objectives.png" width="20em">
+<img title="" src="./Logos and Figures/Objectives.png" alt="" width="640">
 
 * <u>Incentivize Healthy Behaviors Through Participation in the Program  </u>
   
@@ -108,7 +120,7 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 
 ### Program Design
 
-![](./Logos%20and%20Figures/SuperLifeStyle%20Wellness%20Incentives.png)
+<img src="./Logos%20and%20Figures/SuperLifeStyle%20Wellness%20Incentives.png" title="" alt="" width="637">
 
 * **<u>Safety Campaigns</u>**
   
