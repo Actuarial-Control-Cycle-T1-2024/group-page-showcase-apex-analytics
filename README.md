@@ -154,7 +154,7 @@ We have determined that the reduction in claims costs from SuperLifeStyle’s mo
 
 ### Pricing and Costs:
 
-<img src="Logos%20and%20Figures/Cost.png" title="" alt="Claims Cost Reduction" width="452">
+<img src="Logos%20and%20Figures/Screenshot 2024-04-08 at 10.18.01 AM.png" title="" alt="Claims Cost Reduction" width="452">
 
 The graph below indicates the lives that would have been saved if the program was implemented 20 years ago; the claims cost savings would have been Č11,491,341,272.57 for term insurance policies and Č58,051,148,810.82 for whole-life policies. The savings would increase to Č14,409,136,415.29 and Č131,818,490,081.97 after another 20 years. 
 
