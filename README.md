@@ -148,13 +148,13 @@ secure future. Experience the power of SuperLifeStyle and unlock a world
 
 ### Project Development Pipeline: <a name="pdp"></a>
 
-<img title="" src="./Logos and Figures/Pipeline.png" alt="" width="450" data-align="inline">
+<img title="" src="./Logos and Figures/Pipeline.png" alt="" width="600" data-align="inline">
 
 We have determined that the reduction in claims costs from SuperLifeStyle’s mortality benefits will offset the implementation costs for term insurance between the ages of 23 and 84, and whole-life insurance for all ages above 23. This reduction in expenses will fund the premium discounts. The reduced costs and higher expected insurance sales from the discounts will create larger profits for SuperLife. 
 
 ### Pricing and Costs:
 
-<img src="file:///Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-13-27-image.png" title="" alt="" width="450">
+<img src="Logos%20and%20Figures/Cost.png" title="" alt="Claims Cost Reduction" width="452">
 
 The graph below indicates the lives that would have been saved if the program was implemented 20 years ago; the claims cost savings would have been Č11,491,341,272.57 for term insurance policies and Č58,051,148,810.82 for whole-life policies. The savings would increase to Č14,409,136,415.29 and Č131,818,490,081.97 after another 20 years. 
 
@@ -209,8 +209,6 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 | War                      | 1          | 5        |
 
 <img src="Logos%20and%20Figures/Picture 1.png" title="" alt="Claims Cost Reduction" width="452">
-
-
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
 
