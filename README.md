@@ -208,7 +208,9 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 | Pandemic<br> (PAND)      | 2          | 4        |
 | War                      | 1          | 5        |
 
-<img src="file:///Users/visweshnarayan/Downloads/Picture%201.png" title="" alt="" width="454">
+<img src="Logos%20and%20Figures/Picture 1.png" title="" alt="Claims Cost Reduction" width="452">
+
+
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
 
