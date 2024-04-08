@@ -208,8 +208,6 @@ Alongside the sensitivity analysis, we have also considered several qualitative 
 | Pandemic<br> (PAND)      | 2          | 4        |
 | War                      | 1          | 5        |
 
-<img src="file:///Users/visweshnarayan/Library/Application%20Support/marktext/images/2024-04-08-09-05-25-image.png" title="" alt="" width="450">
-
 <img src="file:///Users/visweshnarayan/Downloads/Picture%201.png" title="" alt="" width="454">
 
 The implementation of SuperLifeStyle is accompanied by several key risks which this section will outline and discuss mitigation strategies for. 
